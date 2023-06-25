@@ -1,0 +1,12 @@
+{
+  "name": "ddr/php-pipelines",
+  "description": "A basic implementation of pipelines in PHP, similar to Laravel Pipeline, framework agnostic.",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
